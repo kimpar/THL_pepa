@@ -160,7 +160,7 @@ Nakkila;5437;5001-10000;5;Taajaan asuttu kunta;3;Väestöään menettävät;3;20
 Nivala;10737;10001-20000;4;Taajaan asuttu kunta;3;Väestöään menettävät;3;201;ky koko sote;1175
 Nokia;33527;20001-40000;3;Kaupunkimaiset kunnat;2;Kasvava;2;101;kunta, koko sote;1434
 Nousiainen;4733;2000-5000;6;Maaseutumaiset kunnat;4;Väestöään menettävät;3;201;ky koko sote;859
-Nurmes;7641;5001-10000;5;Taajaan asuttu kunta;3;Nopeasti taantuva;4;201;ky koko sote;1938
+Nurmes;7641;5001-10000;5;Taajaan asuttu kunta;3;Väestöään nopeasti menettävät;4;201;ky koko sote;1938
 Nurmijärvi;42665;40001-100000;2;Kaupunkimaiset kunnat;2;Kasvava;2;201;ky koko sote;1286
 Närpiö;9471;5001-10000;5;Maaseutumaiset kunnat;4;Kasvava;2;201;ky koko sote;1458
 Orimattila;16091;10001-20000;4;Taajaan asuttu kunta;3;Väestöään menettävät;3;201;ky koko sote;1765
@@ -274,7 +274,7 @@ Uusikaupunki;15700;10001-20000;4;Taajaan asuttu kunta;3;Kasvava;2;302;vk terv.hu
 Vaala;2869;2000-5000;6;Maaseutumaiset kunnat;4;Väestöään nopeasti menettävät;4;201;ky koko sote;1631
 Vaasa;67552;40001-100000;2;Suuret kaupungit;1;Kasvava;2;302;vk terv.huolto ja yksittäisiä sos.palveluja;802
 Valkeakoski;21137;20001-40000;3;Kaupunkimaiset kunnat;2;Kasvava;2;101;kunta, koko sote;775
-Valtimo;2143;2001-5000;6;Maaseutumaiset kunnat;4;Nopeasti taantuva;4;201;ky koko sote;1888
+Valtimo;2143;2001-5000;6;Maaseutumaiset kunnat;4;Väestöään nopeasti menettävät;4;201;ky koko sote;1888
 Vantaa;228166;Yli 100000;1;Suuret kaupungit;1;Nopeasti kasvava;1;101;kunta, koko sote;1038
 Varkaus;20829;20001-40000;3;Kaupunkimaiset kunnat;2;Väestöään nopeasti menettävät;4;301;vastuukunta koko sote;1666
 Vehmaa;2285;2000-5000;6;Maaseutumaiset kunnat;4;Väestöään menettävät;3;302;vk terv.huolto ja yksittäisiä sos.palveluja;1524
